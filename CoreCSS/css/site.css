@@ -9,3 +9,23 @@
   a {
       font-size: 30px;
   }
+
+  #first-character {
+      font-size: 50px;
+  } 
+
+  .starting-character {
+      font-size: 50px;
+  }
+
+  .starting-character.first-overall-character {
+      color: red;
+  }
+
+  .sample-copy {
+      font-size: 30px;
+  }
+
+  footer.sample-copy {
+      color: red;
+  }
