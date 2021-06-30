@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro&family=Roboto:wght@100&display=swap');
+
+html {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5rem;
+}
+
+h1 {
+    font-family: 'Castoro', serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Castoro', serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+h3 {
+    font-family: 'Castoro', serif;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+figcaption {
+    font-size: 0.8rem;
+    line-height: 0.8rem;
+    color: rgb(49, 49, 143);
+}
+
+
+
+.navitem {
+    color: #632a92;
+    font-size: 0.9rem;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+}
