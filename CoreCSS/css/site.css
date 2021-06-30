@@ -4,6 +4,7 @@
       font-size: 20px;
       font-family: 'Roboto', Tahoma, Geneva, Verdana, sans-serif;
       line-height: 1.5rem;
+      text-align: justify;
   }
   
   body {
@@ -40,4 +41,12 @@
       color: red;
       font-size: 0.8rem;
       font-style: italic;
+  }
+ 
+  .key-info {
+      color: #066283;
+      font-weight: bold;
+      text-decoration-line: underline;
+      text-indent: 2em;
+      text-transform: uppercase;
   }
