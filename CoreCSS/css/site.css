@@ -1,21 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Roboto:wght@100&display=swap');
+  
+  html {
+      font-size: 20px;
+      font-family: 'Roboto', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.5rem;
+  }
+  
   body {
       font-size: 20px;
   }
 
   h1 {
-      font-size: 40px;
+      font-size: 2rem;
+      font-family: 'Montserrat', 'Times New Roman', Times, serif;
   }
 
   a {
-      font-size: 30px;
+      font-size: 1rem;
   }
 
   #first-character {
-      font-size: 50px;
+      font-size: 2.5rem;
   } 
 
   .starting-character {
-      font-size: 50px;
+      font-size: 2.5rem;
+      font-weight: lighter;
   }
 
   .starting-character.first-overall-character {
@@ -23,9 +33,11 @@
   }
 
   .sample-copy {
-      font-size: 30px;
+      font-size: 1.5rem;
   }
 
   footer.sample-copy {
       color: red;
+      font-size: 0.8rem;
+      font-style: italic;
   }
