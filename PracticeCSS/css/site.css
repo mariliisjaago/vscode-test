@@ -55,3 +55,12 @@ figcaption {
 .quote.highlighted {
     min-height: 300px;
 }
+
+.normal-paragraph {
+    display: flow-root;
+}
+
+#dog-petting-img {
+    width: 20%;
+    float: left;
+}
